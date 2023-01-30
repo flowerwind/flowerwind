@@ -10,6 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flowerwind&theme=dracula&repo=Weblogic404Memshell" />
 </a>
 
-<a href="https://github.com/flowerwind/RemoteShell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flowerwind&theme=dracula&repo=RemoteShell" />
+<a href="https://github.com/flowerwind/AutoGenerateXalanPayload">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flowerwind&theme=dracula&repo=AutoGenerateXalanPayload" />
 </a>
